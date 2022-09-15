@@ -1,0 +1,4 @@
+﻿  MTuringa.cpp
+C:\Users\Dawid\Desktop\MTuringa\MTuringa\MTuringa.cpp(172,28): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\MTuringa\MTuringa\MTuringa.cpp(191,37): warning C4101: "dl": lokalna zmienna, do której nie istnieje odwołanie
+  MTuringa.vcxproj -> C:\Users\Dawid\Desktop\MTuringa\x64\Debug\MTuringa.exe

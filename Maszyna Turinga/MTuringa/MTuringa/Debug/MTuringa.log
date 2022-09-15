@@ -1,0 +1,4 @@
+﻿  MTuringa.cpp
+C:\Users\Dawid\source\repos\MTuringa\MTuringa\MTuringa.cpp(157,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Dawid\source\repos\MTuringa\MTuringa\MTuringa.cpp(171,37): warning C4101: "dl": lokalna zmienna, do której nie istnieje odwołanie
+  MTuringa.vcxproj -> C:\Users\Dawid\source\repos\MTuringa\Debug\MTuringa.exe
